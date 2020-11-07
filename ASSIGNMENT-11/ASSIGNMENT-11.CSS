@@ -1,0 +1,58 @@
+.herotitle{
+    background-color: lightcoral;
+    font-family:; 
+    color: white;
+text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: royalblue;
+}
+
+.spider{
+    color: lightcoral;
+    font-size: 30px;
+}
+
+.spiderman{
+text-indent:50px;
+    letter-spacing:3px;
+   text-align: justify;
+}
+
+.Captain{
+    color:blue ;
+text-decoration: overline;
+text-align: right;
+font-size: 30px;
+
+}
+
+.The{
+    font-family: 'Lobster', cursive;
+}
+
+.captainamerica{
+    word-spacing: 10px;
+    text-align: right;
+}
+
+
+.Iron{
+    color: yellow;
+    background-color:#3287a8;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.ironman{
+    text-decoration: line-through;
+}
+
+.righttoleft{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    text-align: right;
+}
