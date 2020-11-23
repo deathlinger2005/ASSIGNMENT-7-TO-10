@@ -1,0 +1,62 @@
+html{
+    background-image: url(https://wonderfulengineering.com/wp-content/uploads/2016/01/black-wallpaper-12.jpg);
+    
+
+}
+
+p{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+h1{
+    text-align: center;
+    text-shadow: 2px 5px 2px rgb(233, 233, 36);
+    
+    color: teal;
+}
+
+
+.about{
+    color: green;
+    text-decoration: line-through yellow;
+
+}
+
+p{
+    color: cyan;
+    font-size: medium;
+}
+
+.SH{
+  color: red;
+  font-size: large;
+
+}
+
+.para2{
+    color: red;
+    font-size: medium;
+}
+
+.redonly{
+     color: red;
+     font-size: large;
+}
+
+
+.originalonly{
+    color: cyan;
+}
+
+
+.p5{
+    text-transform: uppercase;
+    color: darkmagenta;
+    font-weight: bolder;
+}
+
+
+.yellowonly{
+    color: rgb(201, 201, 44);
+}
