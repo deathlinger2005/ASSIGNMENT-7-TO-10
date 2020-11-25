@@ -1,0 +1,101 @@
+.nav{
+    background-color: ghostwhite;
+font-size: small;
+
+
+margin: 40px;
+margin-top: 50px;
+margin-bottom: 20px;
+
+
+padding: 20px;
+
+}
+
+.port{
+ font-weight: bolder;
+ font-size: x-large;
+ font-family: 'Anton', sans-serif;
+}
+
+body{
+    background-color: #1BCA9B
+    ;
+}
+
+.onepara{
+    background-color: ghostwhite;
+padding: 50px;
+margin: 40px;
+margin-top: 50px;
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/56/John_Key_February_2015.jpg);
+background-size: 17%;
+background-repeat: no-repeat;
+text-align: center;
+
+
+}
+
+.h1{
+    font-size: xxx-large;
+    font-family: 'Pacifico', cursive;
+}
+
+.intro1{
+    font-size:x-large ;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.intro2{
+    font-size: large;
+    font-family: 'Kaushan Script', cursive;
+}
+
+
+.secondpara{
+    background-color: ghostwhite;
+padding: 40px;
+margin: 40px;
+margin-top: 50px;
+
+}
+
+.secondpara p{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.secondpara h2{
+    font-family: 'Fredoka One', cursive;
+}
+.thirdpara{
+    background-color: ghostwhite;
+padding: 40px;
+margin: 40px;
+margin-top: 50px;
+text-transform: capitalize;
+}
+
+.thirdpara h2{
+    font-family: 'Fredoka One', cursive;
+}
+
+.thirdpara p{
+    font-family: 'Sansita Swashed', cursive;
+
+}
+
+.fourthpara{
+    background-color: ghostwhite;
+padding: 40px;
+margin: 40px;
+margin-top: 50px;
+}
+
+
+.fourthpara h2{
+    font-family: 'Fredoka One', cursive;
+}
+
+.fourthpara p{
+    font-family: 'Sansita Swashed', cursive;
+}
